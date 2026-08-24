@@ -8,4 +8,4 @@ permalink: /about
 # Portfolio Jekyll Theme
 
 This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
-This portfolio is a my MUSA learning and exercising tool that I will showcase my work to HAQI's clients and colleagues globally
+This portfolio's purpose is simply to exercise and build projects live from Professor Mjumbe's class at the University of Pennsylvania.
