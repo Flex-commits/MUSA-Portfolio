@@ -7,14 +7,14 @@ thumbnail: /assets/maps/finding-support/finding-support-poster.png
 
 # Finding Support
 
-**NYC homelessness services and nearby rail**<br>
+**How far are NYC’s homelessness service access points from rail?**<br>
 30-Day Map Challenge · Day 2: Lines · November 2026
 
-Where can someone go for help in NYC, and how close is it to the train?
+How far are NYC’s homelessness service access points from rail?
 
 For this map, I brought together 21 publicly listed service access points: adult drop-in centers, shelter intake centers, and youth drop-in centers. I then connected each address to its nearest subway or Staten Island Railway station. The lines show straight-line distance, rather than walking routes.
 
-Housing and public health are connected, and I wanted this project to focus on a practical question about where support is located. The map lets you filter by service type and borough, see who each location serves, and compare its distance from rail.
+Housing and public health are connected, and I wanted this project to focus on a practical question about where support is located. Close-up views of Manhattan, the Bronx and Brooklyn make the shorter connections visible, with a citywide overview for context. The map lets you filter by service type and borough, see who each location serves, and compare its distance from rail.
 
 <p><a href="https://flex-commits.github.io/30-days-mapping/finding-support/" target="_blank" rel="noopener" style="display:inline-block;padding:12px 18px;background:#25282d;color:#fff;text-decoration:none;">Open the interactive map ↗</a></p>
 
@@ -40,5 +40,5 @@ This is a snapshot checked on November 2, 2026. It covers public service access 
 
 <details>
 <summary>Tools, credits and design references</summary>
-<p>Made with Python, Matplotlib and Leaflet. Borough geometry: NYC Department of City Planning. Regional land: Natural Earth. Optional street context: OpenStreetMap contributors. Typography: DM Sans. Research, code and editing were assisted by AI. Design references include <a href="https://work.co/clients/mta/">Work &amp; Co’s MTA map</a> and <a href="https://morphocode.com/announcing-urban-layers/">Morphocode’s Urban Layers</a>.</p>
+<p>Made with Python, Matplotlib and Leaflet. Borough geometry: NYC Department of City Planning. Regional land: Natural Earth. Street context: OpenStreetMap contributors. Typography: DM Sans. Research, code and editing were assisted by AI. Design references include <a href="https://work.co/clients/mta/">Work &amp; Co’s MTA map</a> and <a href="https://morphocode.com/announcing-urban-layers/">Morphocode’s Urban Layers</a>.</p>
 </details>
