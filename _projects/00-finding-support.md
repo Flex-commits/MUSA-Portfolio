@@ -16,9 +16,11 @@ For this map, I brought together 21 publicly listed service access points: adult
 
 Housing and public health are connected, and I wanted this project to focus on a practical question about where support is located. The map lets you filter by service type and borough, see who each location serves, and compare its distance from rail.
 
-<p><a href="{{ '/assets/maps/finding-support/' | relative_url }}" target="_blank" rel="noopener" style="display:inline-block;padding:12px 18px;background:#25282d;color:#fff;text-decoration:none;">Open the interactive map ↗</a></p>
+<p><a href="https://flex-commits.github.io/30-days-mapping/finding-support/" target="_blank" rel="noopener" style="display:inline-block;padding:12px 18px;background:#25282d;color:#fff;text-decoration:none;">Open the interactive map ↗</a></p>
 
-<iframe src="{{ '/assets/maps/finding-support/' | relative_url }}" title="Finding Support: NYC services and nearby rail" loading="lazy" style="width:100%;height:860px;border:1px solid #dfe5e2;border-radius:3px;"></iframe>
+<iframe src="https://flex-commits.github.io/30-days-mapping/finding-support/" title="Finding Support: NYC services and nearby rail" loading="lazy" style="width:100%;height:860px;border:1px solid #dfe5e2;border-radius:3px;"></iframe>
+
+The map, scripts, saved data and outputs live in my [separate map repository](https://github.com/Flex-commits/30-days-mapping/tree/main/day02-finding-support). This portfolio page links to that project.
 
 ## What the lines show
 
@@ -34,7 +36,7 @@ The service directory comes from [NYC311 adult drop-in listings](https://portal.
 
 This is a snapshot checked on November 2, 2026. It covers public service access points, rather than all shelters. The service coordinates are Census address interpolations; the lines are not verified walking paths. A shorter line does not establish that a service is easier to reach or that a bed is available. Check eligibility and hours through the official listing before travel.
 
-[Download the map image]({{ '/assets/maps/finding-support/finding-support-poster.png' | relative_url }}) · [Download the line data]({{ '/assets/maps/finding-support/data/rail-links.geojson' | relative_url }}) · [Code and saved inputs]({{ '/assets/maps/finding-support/source.zip' | relative_url }})
+[Download the map image]({{ '/assets/maps/finding-support/finding-support-poster.png' | relative_url }}) · [Download the line data](https://flex-commits.github.io/30-days-mapping/finding-support/data/rail-links.geojson) · [Code and saved inputs](https://github.com/Flex-commits/30-days-mapping/tree/main/day02-finding-support)
 
 <details>
 <summary>Tools, credits and design references</summary>
