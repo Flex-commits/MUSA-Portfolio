@@ -26,9 +26,9 @@ The map, scripts, saved data and outputs live in my [separate map repository](ht
 
 Each connection runs from an approximate service address to the nearest MTA station centroid. I calculated the distances against all 496 station records in the saved MTA dataset, using the haversine formula.
 
-The longest connection is the youth drop-in location in Port Richmond: approximately 4.8 km from Tompkinsville on the Staten Island Railway. That is a rail-proximity measurement. Bus and ferry connections, actual street routes, station entrances and step-free access would be the next things to add.
+The longest connection is the youth drop-in location in Port Richmond: approximately 2.99 miles from Tompkinsville on the Staten Island Railway. That is a rail-proximity measurement. Bus and ferry connections, actual street routes, station entrances and step-free access would be the next things to add.
 
-You can switch back to **Points** to see the service locations on their own. In **Lines**, select a location to see the station name, approximate distance, hours, audience, and official service information.
+Select a location to see the station name, approximate distance, hours, audience, and official service information.
 
 ## Data and limits
 
