@@ -8,7 +8,7 @@ thumbnail: /assets/maps/finding-support/finding-support-poster.png
 # Finding Support
 
 **How far are NYC’s homelessness service access points from rail?**<br>
-30-Day Map Challenge · Day 2: Lines · November 2026
+Independent mapping project · November 2026
 
 How far are NYC’s homelessness service access points from rail?
 
