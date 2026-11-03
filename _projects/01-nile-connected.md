@@ -10,13 +10,13 @@ thumbnail: /assets/maps/nile/02-thomas-hagos.png
 **One basin, many tributaries.**<br>
 30-Day Map Challenge · Day 2: Lines · November 2026
 
-I followed the Nile upstream: through Sudan, into the Ethiopian highlands and the equatorial lake catchments. I wanted the branching network to be the subject of this map.
+I followed the Nile upstream: through Sudan, into the Ethiopian highlands and the equatorial lake catchments. An Africa locator places the basin on the continent. Labels identify the equatorial and Ethiopian headwater regions and the Mediterranean outlet.
 
 The map contains 133,797 connected river reaches from HydroRIVERS. Pale gold traces the White Nile system, amber the Blue Nile system, and coral the Atbara system. The remaining connected Nile network is blue-gray. The navy background, cream type and warm accents continue the style of my Day 1 map, The Restless Earth. Line thickness follows Strahler stream order.
 
 [Open the project and full-resolution map](https://flex-commits.github.io/30-days-mapping/nile/) · [Code and sources](https://github.com/Flex-commits/30-days-mapping/tree/main/day02-nile)
 
-![The Nile connected river network](https://flex-commits.github.io/30-days-mapping/nile/nile-connected.png)
+![The Nile connected river network](https://flex-commits.github.io/30-days-mapping/nile/nile-connected.png?v=20261103-context)
 
 ## How I made it
 
